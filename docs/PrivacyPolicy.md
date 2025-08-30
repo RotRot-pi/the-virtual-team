@@ -1,0 +1,13 @@
+# Privacy Policy (Draft)
+
+What we collect
+- ...
+
+Why we collect it
+- ...
+
+How we store and protect data
+- ...
+
+Your choices
+- ...
