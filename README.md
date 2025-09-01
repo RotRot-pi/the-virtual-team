@@ -10,6 +10,11 @@ This repo includes:
 
 Optional: Orchestrator protocol (Cog‑Orch‑1) to coordinate multiple roles in sequence.
 
+**Note**
+This project follows the “Context Engineering” workflow from: [هندسة السياق (Context Engineering) 2 : أهم مهارة للمبرمجين في 2025 وما بعدها !]. 
+Watch: [https://www.youtube.com/watch?v=PhkPIj7MDWg&t=1s].
+Original repo: [https://github.com/Pythonation/Context-Engineering-for-AI-Coding].
+
 ## Why
 Reduce chaos and rework by enforcing:
 - Foundation First (plan before build), Module Loop (one unit at a time), Safe Edit (Read → Think → Edit), Approval gates, Facts vs Inspiration research.
