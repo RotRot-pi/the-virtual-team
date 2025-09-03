@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="the-virtual-team.png" alt="The Virtual Team" width="200"/>
+</div>
+
 # Context‑Engineered Virtual Team for Flutter Projects
 
 Turn a solo workflow into a professional, multi‑role delivery system using Context Engineering (Foundation First, Module Loop, Safe Edit, Approval Gates).
